@@ -1,0 +1,12 @@
+.anchor{
+    border-radius: 20px;
+    color: royalblue;
+    background-color: red;
+    width:20px;
+    margin: 0px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+}
